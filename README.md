@@ -10,4 +10,7 @@ yarn or npm install.
 ## Setting PORT in .env file
 PORT=8000
 
+## Executing the server
+yarn dev or npm run dev
+
 Done! You're ready to go.
